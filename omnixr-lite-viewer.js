@@ -1,6 +1,6 @@
 /**
  * @license
- * Copyright 2017 Google LLC
+ * Copyright 2024 Technohive-Omnixr
  * SPDX-License-Identifier: BSD-3-Clause
  */
 const t = (t, e) => "method" === e.kind && e.descriptor && !("value" in e.descriptor) ? {
